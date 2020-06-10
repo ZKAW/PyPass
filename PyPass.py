@@ -1,6 +1,6 @@
 from random import choice as rand
 from string import ascii_letters, digits
-specials = "#~!/?%°@&-_{}[]()*$."
+specials = "#~!/?%°@&-_{}[]()*$." # Here you can change the special characters map
 
 try:
     passLength = int(input("Password length ([default = 12]): "))
