@@ -17,7 +17,7 @@ This is a random password generator coded in Python.
 
 **HOW TO DOWNLOAD:**
 
-*`git clone https://github.com/ZKAW/PyPass`
+* `git clone https://github.com/ZKAW/PyPass`
 <br/> or <br/>
 * Download the .zip [By clicking here](https://github.com/ZKAW/PyPass/archive/master.zip)
 
