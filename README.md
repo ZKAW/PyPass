@@ -1,7 +1,7 @@
 # PyPass
 This is a random password generator coded in Python.
 
-* You can:
+*With this script, you can:*
 
 - Select the password length
 - Enable/disable numbers
