@@ -3,7 +3,7 @@ This is a random password generator coded in Python.
 
 **Where can I use it?:**
 
-- Windows
+- Windows (.exe version available)
 - Ubuntu
 - macOS
 
