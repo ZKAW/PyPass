@@ -19,13 +19,12 @@ This is a random password generator coded in Python.
 
 `git clone https://github.com/ZKAW/PyPass`
 
-**HOW TO INSTALL:**
+**HOW TO LAUNCH:**
 
-No installation required, the only thing you need is Python3.
 <br/>
-Launch the script with: `python3 PyPass.py`
+Launch the script with: `python3 PyPass.py` (python3 required)
 <br/>
-Or launch the .exe (python not required for this)
+Or just launch the .exe (python not required)
 
 **HOW TO HELP ME:**
 
