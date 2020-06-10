@@ -21,10 +21,10 @@ This is a random password generator coded in Python.
 
 **HOW TO LAUNCH:**
 
-<br/>
 Launch the script with: `python3 PyPass.py` (python3 required)
 <br/>
 Or just launch the .exe (python not required)
+<br/>
 
 **HOW TO HELP ME:**
 
