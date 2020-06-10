@@ -1,6 +1,12 @@
 # PyPass
 This is a random password generator coded in Python.
 
+**Where can I use it?:**
+
+- Windows
+- Ubuntu
+- macOS
+
 **With this script, you can:**
 
 - Select the password length
