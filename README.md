@@ -22,8 +22,9 @@ This is a random password generator coded in Python.
 **HOW TO INSTALL:**
 
 No installation required, the only thing you need is Python3.
-Launch the script with:
-`python3 PyPass.py`
+<br/>
+Launch the script with: `python3 PyPass.py`
+<br/>
 Or launch the .exe (python not required for this)
 
 **HOW TO HELP ME:**
