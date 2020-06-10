@@ -1,5 +1,5 @@
 # PyPass
-Random password generator in Python.
+This is a random password generator coded in Python.
 
 * You can:
 
