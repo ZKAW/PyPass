@@ -14,8 +14,8 @@ This is a random password generator coded in Python.
 
 **HOW TO INSTALL:**
 
-No installation required, just launch the script with:
-`Python3 PyPass.py`
+No installation required, just launch the script with
+`python3 PyPass.py`
 
 **HOW TO HELP ME:**
 
