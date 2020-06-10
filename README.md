@@ -1,5 +1,6 @@
 # PyPass
 This is a random password generator coded in Python.
+-> This script do not store ANY of your data.
 
 **Where can I use it?:**
 
