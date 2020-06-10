@@ -19,7 +19,7 @@ This is a random password generator coded in Python.
 
 * `git clone https://github.com/ZKAW/PyPass`
 <br/> or <br/>
-* Download the .zip [By clicking here](https://github.com/ZKAW/PyPass/archive/master.zip)
+* Download the .zip [by clicking here](https://github.com/ZKAW/PyPass/archive/master.zip)
 
 
 **HOW TO LAUNCH:**
