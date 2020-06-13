@@ -25,11 +25,11 @@ This is a random password generator in python that does NOT store ANY of your da
 
 **HOW TO LAUNCH:**
 
-Import the script with: `from py_pass import randPass`
+* Import the script with: `from py_pass import randPass`
 <br/> or <br/> 
-Launch the script with: `python3 PyPass.py` (python3 required)
+* Launch the script with: `python3 PyPass.py` (python3 required)
 <br/> or <br/>
-Launch the Windows .exe (python not required)
+* Launch the Windows .exe (python not required)
 
 **HOW TO USE PIP MODULE:**
 
