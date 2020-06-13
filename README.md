@@ -32,7 +32,7 @@ Or just launch the .exe (python not required)
 
 - Like
 - Fork
-- Tell your friend about this ! :)
+- Tell your friend about it ! :)
 
 **! DISCLAIMER !**
 
