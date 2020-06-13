@@ -16,17 +16,19 @@ This is a random password generator in python that does NOT store ANY of your da
 
 **HOW TO DOWNLOAD:**
 
+* `pip3 install py_pass`
+<br/> or <br/>
 * `git clone https://github.com/ZKAW/PyPass`
 <br/> or <br/>
 * Download the .zip [by clicking here](https://github.com/ZKAW/Py-Pass/archive/master.zip)
 
-
 **HOW TO LAUNCH:**
 
-Launch the script with: `python3 PyPass.py` (python3 required)
-<br/>
-Or just launch the .exe (python not required)
-<br/>
+* Import it: `from py_pass import randPass` (python3 + pip installation required)
+<br/> or <br/>
+* Launch the script with: `python3 PyPass.py` (python3 + github cloning required)
+<br/> or <br/>
+* Launch the .exe (python not required)
 
 **HOW TO HELP ME:**
 
