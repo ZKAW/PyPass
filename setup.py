@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="Py-Pass", # Replace with your own username
+    name="Py_Pass",
     version="1.0",
     author="ZKAW",
     author_email="zkaw.exod@gmail.com",
     description="A customizable password generator",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ZKAW/PyPass",
+    url="https://github.com/ZKAW/Py_Pass",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
