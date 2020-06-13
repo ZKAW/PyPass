@@ -34,6 +34,6 @@ Or just launch the .exe (python not required)
 - Fork
 - Tell your friend about it ! :)
 
-**! DISCLAIMER !**
+**⚠ DISCLAIMER 	⚠**
 
 This script is not storing ANY of your data, so you can use it in a totally transparent and safe way. Enjoy ! :)
