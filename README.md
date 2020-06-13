@@ -30,7 +30,6 @@ This is a random password generator coded in Python.
 * Launch the script with: `python3 PyPass.py` (python3 + github cloning required)
 <br/> or <br/>
 * Launch the .exe (python not required)
-<br/>
 
 **HOW TO HELP ME:**
 
