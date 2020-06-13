@@ -25,9 +25,11 @@ This is a random password generator coded in Python.
 
 **HOW TO LAUNCH:**
 
-Launch the script with: `python3 PyPass.py` (python3 required)
-<br/>
-Or just launch the .exe (python not required)
+* Launch the script with: `python3 PyPass.py` (python3 required)
+<br/> or <br/>
+* Import it: `from py_pass import randPass` (pip3 installation required)
+<br/> or <br/>
+* Launch the .exe (python not required)
 <br/>
 
 **HOW TO HELP ME:**
