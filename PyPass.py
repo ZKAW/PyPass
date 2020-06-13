@@ -4,25 +4,18 @@ from random import choice as rand
 from string import ascii_letters, digits
 specials = "#~!/?%°@&=-_{}[]()*$." # Here you can change the default special characters map
 
+try:
+    input = raw_input # if python version <= 2.7, set input pour raw_input
+except NameError:
+    pass # else, don't change anything
 
 try:
-    passLength = int(raw_input("Password length ([default = 12]): "))
+    passLength = int(input("Password length ([default = 12]): "))
 except ValueError:
     passLength = 12
-except NameError:
-    try:
-        passLength = int(input("Password length ([default = 12]): "))
-    except ValueError:
-        passLength = 12
 
-try:
-    includeNumber = raw_input("Include numbers ? (O/n): ")
-except NameError:
-    includeNumber = input("Include numbers ? (O/n): ")
-try:
-    includeSpecial = raw_input("Inclure special characters ? (O/n): ")
-except NameError:
-    includeSpecial = input("Inclure special characters ? (O/n): ")
+includeNumber = input("Include numbers ? (O/n): ")
+includeSpecial = input("Inclure special characters ? (O/n): ")
 
 if "n" in includeNumber:
     isNumber = False
