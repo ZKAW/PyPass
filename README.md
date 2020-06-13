@@ -25,9 +25,9 @@ This is a random password generator coded in Python.
 
 **HOW TO LAUNCH:**
 
-* Launch the script with: `python3 PyPass.py` (python3 required)
+* Import it: `from py_pass import randPass` (python3 + pip installation required)
 <br/> or <br/>
-* Import it: `from py_pass import randPass` (pip3 installation required)
+* Launch the script with: `python3 PyPass.py` (python3 + github cloning required)
 <br/> or <br/>
 * Launch the .exe (python not required)
 <br/>
