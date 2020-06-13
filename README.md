@@ -33,15 +33,7 @@ This is a random password generator in python that does NOT store ANY of your da
 
 **HOW TO USE PIP MODULE:**
 
-- `from py_pass import randPass`
-- `print(randPass())`
-
-randPass can take four arguments:
-
-- stringLength -> Password length, in integer (default=12).
-- isNumber -> Is the password should include numbers, in boolean (default=True).
-- isSpecial -> Is the password should include special characters, in boolean (default=True).
-- specialChars -> The special characters ASCII map, in string (default=specials).
+* You can find the pip tutorial on the [pypi project page](https://pypi.org/project/py-pass/)
 
 **HOW TO HELP ME:**
 
