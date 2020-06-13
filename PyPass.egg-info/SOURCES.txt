@@ -1,0 +1,6 @@
+README.md
+setup.py
+PyPass.egg-info/PKG-INFO
+PyPass.egg-info/SOURCES.txt
+PyPass.egg-info/dependency_links.txt
+PyPass.egg-info/top_level.txt

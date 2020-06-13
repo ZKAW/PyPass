@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="PyPass", # Replace with your own username
+    name="Py-Pass", # Replace with your own username
     version="1.0",
     author="ZKAW",
     author_email="zkaw.exod@gmail.com",

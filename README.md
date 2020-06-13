@@ -1,4 +1,4 @@
-# PyPass
+# Py-Pass
 This is a random password generator coded in Python.
 -> This script do not store ANY of your data.
 
@@ -17,14 +17,14 @@ This is a random password generator coded in Python.
 
 **HOW TO DOWNLOAD:**
 
-* `git clone https://github.com/ZKAW/PyPass`
+* `git clone https://github.com/ZKAW/Py-Pass`
 <br/> or <br/>
-* Download the .zip [by clicking here](https://github.com/ZKAW/PyPass/archive/master.zip)
+* Download the .zip [by clicking here](https://github.com/ZKAW/Py-Pass/archive/master.zip)
 
 
 **HOW TO LAUNCH:**
 
-Launch the script with: `python3 PyPass.py` (python3 required)
+Launch the script with: `python3 Py-Pass.py` (python3 required)
 <br/>
 Or just launch the .exe (python not required)
 <br/>
